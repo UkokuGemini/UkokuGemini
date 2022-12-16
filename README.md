@@ -8,6 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ukokugemini&hide=contribs,issues&theme=calm&show_icons=true&count_private=true&include_all_commits=true"  width="400"><img src="https://streak-stats.demolab.com?user=UkokuGemini&theme=halloween&hide_border=true&border_radius=5.2&locale=zh&date_format=%5BY%20%5DM%20j&ring=DD2727&dates=009450E0&sideNums=DD2727" height="150" width="400">
 
 <center><img src="https://github-readme-activity-graph.cyclic.app/graph?username=UkokuGemini&theme=github" width="800"></center>
+<center><img src="https://ghchart.rshah.org/444444/UkokuGemini" width="800"></center>
 
 *** 
 
